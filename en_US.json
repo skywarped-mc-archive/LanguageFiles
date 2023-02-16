@@ -38,8 +38,8 @@
     "forms.group.view.content": "Group",
     "forms.group.main.title": "Groups",
     "forms.group.main.content": "View your current groups, or view all groups on the server.",
-    "forms.group.main.button.current": "View Current Groups",
-    "forms.group.main.button.all": "View All Groups",
+    "forms.group.main.button.view-current": "View Current Groups",
+    "forms.group.main.button.view-all": "View All Groups",
     "forms.group.main.button.add": "Add Player to Group",
     "forms.group.main.button.remove": "Remove Player from Group",
 
