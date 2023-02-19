@@ -17,7 +17,14 @@
     "messages.form.group.remove.no-permission": "&cYou do not have permission to remove &e{%0} &cfrom &e{%1}&c.",
     "messages.forms.group.remove.not-in-group": "Could not remove &e{%0} &cfrom &e{%1}&c, they are not in that group.",
     "messages.form.group.remove.remove-success": "&e{%0} &ahas been removed from &e{%1}&a.",
-
+    "messages.form.friend.add.cannot-add-self": "&cYou cannot add yourself as a friend.",
+    "messages.form.friend.add.already-friend": "&cYou are already friends with &e{%0}&c.",
+    "messages.form.friend.add.request-already-sent": "&cYou have already sent a friend request to &e{%0}&c.",
+    "messages.form.friend.add.too-many-friends": "&cYou have too many friends, you cannot add any more.",
+    "messages.form.friend.add.too-many-requests": "&cYou have too many friend requests, you cannot send any more.",
+    "messages.form.friend.add.cannot-add-friend": "&cYou cannot add &e{%0} &cas a friend.",
+    "messages.form.friend.add.request-sent": "&aYou have sent a friend request to &e{%0}&a.",
+    "messages.form.friend.add.request-received": "&e{%0} &ahas sent you a friend request.",
     "forms.generic.button.back": "Back",
     "forms.generic.button.close": "Close",
     "forms.generic.button.cancel": "Cancel",
@@ -49,7 +56,10 @@
     "forms.friend.main.button.add": "Add Friend",
     "forms.friend.main.button.incoming": "Incoming Requests [{friends.request.incoming}]",
     "forms.friend.main.button.outgoing": "Outgoing Requests [{friends.request.outgoing}]",
-
+    "forms.friend.view-online.title": "Online Friends [{friends.online}]",
+    "forms.friend.view-online.content": "View your current online friends. Click on a friend to view more information.",
+    "forms.friend.view-offline.title": "Offline Friends [{friends.offline}]",
+    "forms.friend.view-offline.content": "View your current offline friends. Click on a friend to view more information.",
     "forms.group.view.single.content": "Name: &e{%0}&a\nDescription: &e{%1}"
   }
 }
