@@ -23,6 +23,7 @@
     "messages.friend.request-sent": "&aYou have sent a friend request to &e{%0}&a.",
     "messages.friend.request-received": "&e{%0} &ahas sent you a friend request.",
     "messages.friend.accepted-request": "&aYou are now friends with &e{%0}&a.",
+    "messages.friend.denied-request": "&cYou have denied the friend request from &e{%0}&c.",
     "messages.friend.outgoing-request-accepted": "&e{%0} &ahas accepted your friend request.",
     "messages.form.generic.invalid-data": "&cInvalid data provided, please ensure you fill out all fields in forms.",
     "messages.form.group.generic.group-not-found": "&cThat group does not exist.",
