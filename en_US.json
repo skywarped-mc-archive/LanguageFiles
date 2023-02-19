@@ -42,6 +42,13 @@
     "forms.group.main.button.view-all": "View All Groups",
     "forms.group.main.button.add": "Add Player to Group",
     "forms.group.main.button.remove": "Remove Player from Group",
+    "forms.friend.main.title": "Friends",
+    "forms.friend.main.content": "Manage your current friends and requests.",
+    "forms.friend.main.button.view-online": "Online Friends [{friends.online}]",
+    "forms.friend.main.button.view-offline": "Offline Friends [{friends.offline}]",
+    "forms.friend.main.button.add": "Add Friend",
+    "forms.friend.main.button.incoming": "Incoming Requests [{friends.request.incoming}]",
+    "forms.friend.main.button.outgoing": "Outgoing Requests [{friends.request.outgoing}]",
 
     "forms.group.view.single.content": "Name: &e{%0}&a\nDescription: &e{%1}"
   }
