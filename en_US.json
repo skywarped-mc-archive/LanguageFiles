@@ -92,6 +92,10 @@
     "forms.friend.request.outgoing.content": "You have sent a friend request to §e{friend}§a. What would you like to do?",
     "forms.friend.view.title": "Friend: {friend}",
     "forms.friend.view.content": "§cOffline",
-    "forms.friend.view.content-online": "§aOnline\nPlaying: {server}  |  Region: {region}"
+    "forms.friend.view.content-online": "§aOnline\nPlaying: {server}  |  Region: {region}",
+    "forms.friend.view.button.view-profile": "View Profile",
+    "forms.friend.view.button.join": "Join Server",
+    "forms.friend.view.button.message": "Message",
+    "forms.friend.view.button.remove": "Remove"
   }
 }
