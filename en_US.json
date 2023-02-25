@@ -96,6 +96,25 @@
     "forms.friend.view.button.view-profile": "View Profile",
     "forms.friend.view.button.join": "Join Server",
     "forms.friend.view.button.message": "Message",
-    "forms.friend.view.button.remove": "Remove"
+    "forms.friend.view.button.remove": "Remove",
+
+    "forms.settings.main.title": "Settings",
+    "forms.settings.main.content": "Manage your current settings.",
+    "forms.settings.main.button.privacy": "Privacy Settings",
+    "forms.settings.main.button.text": "Text Settings",
+    "forms.settings.main.button.ui": "Interface Settings",
+    "forms.settings.privacy.title": "Privacy Settings",
+    "forms.settings.privacy.dropdown.messages": "Public Messages",
+    "forms.settings.privacy.dropdown.private-messages": "Private Messages",
+    "forms.settings.privacy.dropdown.mail": "Mail",
+    "forms.settings.privacy.dropdown.profile-visibility": "Profile Visibility",
+    "forms.settings.privacy.dropdown.friend-requests": "Friend Requests",
+    "forms.settings.privacy.dropdown.party-invites": "Party Invites",
+    "forms.settings.privacy.dropdown.guild-invites": "Guild Invites",
+    "forms.settings.privacy.dropdown.game-invites": "Game Invites",
+    "forms.settings.privacy.dropdown.option.nobody": "Nobody",
+    "forms.settings.privacy.dropdown.option.friends": "Friends",
+    "forms.settings.privacy.dropdown.option.friends-of-friends": "Friends",
+    "forms.settings.privacy.dropdown.option.everyone": "Everyone"
   }
 }
