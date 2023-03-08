@@ -33,6 +33,7 @@
     "messages.friend.request-received": "§e{%0} §ahas sent you a friend request.",
     "messages.friend.request-accepted": "§aYou are now friends with §e{%0}§a.",
     "messages.friend.request-denied": "§cYou have denied the friend request from §e{%0}§c.",
+    "messages.friend.request-expired": "§cCannot accept friend request, it has expired.",
     "messages.friend.denied-request-error": "§cAn error occurred while attempting to deny that friend request. Please try again later.",
     "messages.friend.outgoing-request-accepted": "§e{%0} §ahas accepted your friend request.",
     "messages.form.generic.invalid-data": "§cInvalid data provided, please ensure you fill out all fields in forms.",
